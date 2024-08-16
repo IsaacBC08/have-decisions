@@ -1,0 +1,1 @@
+print("Modulo de datos de usuario cargado")

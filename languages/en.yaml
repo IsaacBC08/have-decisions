@@ -1,0 +1,604 @@
+# Application Texts
+app_title: "have decisions"
+create_human_btn: "Create Human"
+delete_human_btn: "Delete Human"
+delete_race_btn: "Delete Race"
+advance_day_btn: "Advance Day"
+event_btn: "Trigger Event"
+save_btn: "Save Human"
+current_season_label: "Current Season:"
+current_weather_label: "Current Weather:"
+alive_humans_label: "Alive Humans:"
+tutorial_btn: "Tutorial"
+config_btn: "Configuration"
+select_action_label: "Select an action."
+page_label: "Page"
+interact_actions_label: "Available actions for:"
+talk_action_btn: "Talk to someone"
+work_action_btn: "Work"
+cure_action_btn: "Cure"
+arrest_action_btn: "Arrest"
+kill_action_btn: "Kill"
+select_disease_label: "Choose a disease"
+select_event_label: "Choose an event"
+all_humans_label: "List of all living humans:"
+kill_btn_label: "Kill"
+select_disease_to_cure_label: "Choose a disease to cure:"
+select_person_to_talk_label: "Choose who to talk to"
+human_created_msg: "Human created:"
+human_info_label: ""
+human_saved_msg: "The human has already been saved before"
+human_removed_msg: "The human has already been removed"
+event_occurred_msg: "triggered."
+human_sick_msg: "Human is sick"
+human_cured_msg: "Human cured"
+color_config_dialog_title: "Color Configuration"
+save_colors_btn: "Save"
+cancel_btn: "Cancel"
+high_death_probability_msg: "High probability of dying soon"
+page: "Page"
+create_human: "Human created:"
+names:
+  - Abril
+  - Adela
+  - Adelina
+  - Adolfo
+  - Adriana
+  - Adrián
+  - Adán
+  - Agustín
+  - Aitana
+  - Alan
+  - Alba
+  - Alberto
+  - Alejandro
+  - Alejo
+  - Alexis
+  - Alfonso
+  - Alfredo
+  - Alicia
+  - Alma
+  - Alonso
+  - Amado
+  - Amelia
+  - Anastasia
+  - Andrés
+  - Angélica
+  - Anselmo
+  - Antonia
+  - Antonio
+  - Ariadna
+  - Arnaldo
+  - Artemio
+  - Arturo
+  - Asunción
+  - Augusto
+  - Aurora
+  - Aída
+  - Baltasar
+  - Bartolomé
+  - Basilio
+  - Beatriz
+  - Belén
+  - Benigno
+  - Benito
+  - Benjamín
+  - Berenice
+  - Bernarda
+  - Bernardo
+  - Berta
+  - Bianca
+  - Blanca
+  - Bob
+  - Bonifacio
+  - Borja
+  - Braulio
+  - Brenda
+  - Brigida
+  - Bruno
+  - Bryan
+  - Bárbara
+  - Camila
+  - Carina
+  - Carla
+  - Carlos
+  - Carmelo
+  - Carmen
+  - Carolina
+  - Catalina
+  - Cecilia
+  - Celia
+  - Celso
+  - Ciro
+  - Clara
+  - Claudia
+  - Claudio
+  - Clemente
+  - Concepción
+  - Consuelo
+  - Cornelio
+  - Cristina
+  - Cristóbal
+  - Cándido
+  - César
+  - Dagoberto
+  - Dalia
+  - Damián
+  - Dania
+  - Daniel
+  - Dante
+  - Darío
+  - David
+  - Delfina
+  - Demetrio
+  - Dereck
+  - Diana
+  - Diego
+  - Dionisio
+  - Dolores
+  - Domingo
+  - Dora
+  - Dámaso
+  - Edilberto
+  - Edmundo
+  - Eduardo
+  - Efraín
+  - Eladio
+  - Elena
+  - Elias
+  - Elisa
+  - Eliseo
+  - Elsa
+  - Elvira
+  - Elías
+  - Emiliano
+  - Emilio
+  - Enrique
+  - Enzo
+  - Erasmo
+  - Ernesto
+  - Esperanza
+  - Esteban
+  - Estefanía
+  - Estela
+  - Ester
+  - Eugenio
+  - Eulalia
+  - Eva
+  - Ezequiel
+last_names:
+  - Abarca
+  - Abreu
+  - Acevedo
+  - Acosta
+  - Adame
+  - Adams
+  - Aguado
+  - Aguayo
+  - Aguilar
+  - Aguilera
+  - Aguirre
+  - Agüero
+  - Alarcón
+  - Albornoz
+  - Alcalá
+  - Alcaraz
+  - Alcocer
+  - Alcántara
+  - Alcázar
+  - Alderete
+  - Alfaro
+  - Almagro
+  - Almaraz
+  - Almonte
+  - Alonso
+  - Altamirano
+  - Alvarado
+  - Amador
+  - Andrade
+  - Angulo
+  - Aparicio
+  - Aponte
+  - Aragón
+  - Aranda
+  - Araujo
+  - Araya
+  - Arce
+  - Archuleta
+  - Arellano
+  - Arenas
+  - Arguello
+  - Arias
+  - Arismendi
+  - Arjona
+  - Armendáriz
+  - Armenta
+  - Arnau
+  - Arredondo
+  - Arreola
+  - Arriaga
+  - Arriola
+  - Arroyo
+  - Arteaga
+  - Asensio
+  - Atencio
+  - Avilés
+  - Ayala
+  - Baena
+  - Balderas
+  - Ballesteros
+  - Barajas
+  - Barba
+  - Barbosa
+  - Barquero
+  - Barrera
+  - Barreto
+  - Barrientos
+  - Barrios
+  - Barros
+  - Batista
+  - Bautista
+  - Becerra
+  - Bello
+  - Beltrán
+  - Benavides
+  - Benítes
+  - Benítez
+  - Bermúdez
+  - Betancourt
+  - Blanco
+  - Bonilla
+  - Borrego
+  - Botello
+  - Bravo
+  - Briones
+  - Briseño
+  - Brito
+  - Bueno
+  - Burgos
+  - Bustamante
+  - Bustillo
+  - Báez
+  - Caballero
+  - Cabello
+  - Cabrera
+  - Cadena
+  - Calderón
+  - Calvo
+  - Camacho
+  - Campos
+  - Cano
+  - Canto
+  - Cardozo
+  - Carmona
+  - Caro
+  - Carranza
+  - Carrasco
+  - Carrera
+  - Carrero
+  - Carrillo
+  - Carvajal
+  - Casas
+  - Castañeda
+  - Castañón
+  - Castellanos
+  - Castillo
+  - Castro
+  - Ceballos
+  - Cedillo
+  - Cepeda
+  - Cerda
+  - Cervantes
+  - Chacón
+  - Chávez
+  - Cienfuegos
+  - Cisneros
+  - Collado
+  - Colón
+  - Contreras
+  - Cordero
+  - Corona
+  - Corral
+  - Corrales
+  - Correa
+  - Cortez
+  - Cortés
+  - Crespo
+  - Cruz
+  - Cuevas
+  - Cárdenas
+seasons:
+  - "Summer"
+  - "Spring"
+  - "Autumn"
+  - "Winter"
+seasons_content: "Current season:"
+alive_humans: "Alive humans:"
+delete_all_humans: "All human race has been eliminated"
+options_interact: "Interact"
+options_see_tink: "See thought"
+options_say: "Say"
+options_sick: "Sick"
+options_cure: "Cure"
+age: "Age: "
+years: "Years"
+attributes: "Attributes:"
+feeling: "Current feeling:"
+country: "Country of birth:"
+condition: "Human condition:"
+religion: "Religion:"
+diseases: "Diseases:"
+profession: "Profession:"
+not_assigned: "Not assigned"
+strengths:
+  - "generous"
+  - "brave"
+  - "honest"
+  - "confident"
+  - "optimistic"
+  - "patient"
+  - "kind"
+  - "intelligent"
+  - "tolerant"
+  - "organized"
+  - "compassionate"
+  - "persistent"
+weaknesses:
+  - "selfish"
+  - "cowardly"
+  - "dishonest"
+  - "insecure"
+  - "pessimistic"
+  - "impatient"
+  - "rude"
+  - "dumb"
+  - "disgusting"
+  - "disorganized"
+  - "insensitive"
+  - "resigned"
+religions:
+  - "Christianity"
+  - "Islam"
+  - "Hinduism"
+  - "Buddhism"
+  - "Judaism"
+  - "Sikhism"
+  - "Jainism"
+  - "Taoism"
+  - "Confucianism"
+  - "Atheism"
+fine_human: "The human is not sick"
+is_now: "Now is a:"
+healthy: "Has healed from:"
+sick: "Is sick from:"
+feel: "feels"
+die: "has died"
+working: "is working as"
+saved: "Game saved"
+event_has_occurred: "⊛ An event has occurred ⊛"
+event: "Event:"
+description: "Description:"
+current_day: "Current day:"
+emotions:
+  - "Happiness"
+  - "Sadness"
+  - "Anger"
+  - "Fear"
+  - "Love"
+  - "Boredom"
+  - "Disgust"
+states: 
+  - "Sick"
+  - "Healthy"
+countries:
+  - "Maxico"
+  - "Napama"
+  - "Tangamandapio"
+  - "Aftagisnan"
+  - "Peur"
+  - "Antimican Republic"
+  - "Cuesta Rica"
+  - "Riussa"
+  - "We are United of America"
+  - "Rican Morty"
+  - "Nadacá"
+  - "El Salvadon"
+  - "Varrezuela"
+  - "Sincanagua"
+  - "Magamascar"
+  - "HerreLand" 
+diseases_list:
+  - "Flu"
+  - "Cold"
+  - "Pneumonia"
+  - "Tuberculosis"
+  - "Diabetes"
+  - "Hypertension"
+  - "Cancer"
+  - "Arthritis"
+  - "Eczema"
+  - "Asthma"
+  - "Schizophrenia"
+  - "Depression"
+  - "Bipolar Disorder"
+  - "Anxiety"
+  - "Obsessive-Compulsive Disorder"
+  - "Autism"
+  - "Post-Traumatic Stress Disorder"
+  - "Psychosis"
+  - "Dementia"
+  - "Alzheimer's Disease"
+  - "Parkinson's Disease"
+  - "Multiple Sclerosis"
+  - "Migraine"
+  - "Tension Headache"
+  - "Fibromyalgia"
+choose_illness: "Choose an illness"
+choose_cure_illness: "Choose an illness to cure for:"
+talk_someone: "Talk to someone"
+choose_talk: "Choose someone to talk to:"
+choose_flirt: "Choose someone to flirt with"
+choose_hate: "Choose someone to insult"
+up_relation: "Relationship improved:"
+new_level: "New level:"
+relation_max_level: "Relationship is already at maximum level (5)"
+flirt: "Flirt"
+hate: "Insult"
+already_interacted: "The human has already interacted today"
+gender:
+  - "Male"
+  - "Female"
+gender_label: "Gender:"
+has_event: "An event has already occurred today!"
+already_kill: "There are no living humans"
+
+dialogues:
+  friendship:
+    level_1:
+      - "Hi, how are you?"
+      - "Hi, I'm good, thanks. And you?"
+      - "I'm good too, thanks. My name is [name]. What's your name?"
+      - "I'm [name]. Nice to meet you."
+      - "Likewise. I hope we get to know each other better!"
+      - "Sure! I'd love that."
+    level_2:
+      - "Hi [name], how have you been?"
+      - "Hi, I've been well. I was thinking about you. How's everything going?"
+      - "Everything's good, thanks. I've been quite busy with work lately. How about you?"
+      - "Same here, I've been working too. But it's nice to hear from you. How's your life?"
+      - "I'm doing great. In fact, I've been learning new things."
+      - "That sounds interesting! I'd love to hear more about it."
+      - "Sure, I can tell you all about what I've learned. Do you have any questions?"
+      - "Not for now, but I'd love to keep talking about this with you."
+      - "Perfect, we can discuss it in more detail when you have time."
+      - "Great! I'm glad to share this with you."
+    level_3:
+      - "Hi [name]! It's nice to see you. What have you been up to lately?"
+      - "Hi, I've been good. I've been trying out new recipes lately. Do you like cooking?"
+      - "Yes, I love it. What's your favorite recipe you've tried recently?"
+      - "I made an amazing apple pie. Would you like to come and try it?"
+      - "Sure! That sounds delicious. I'd love to."
+      - "Great, I'll bring it over this weekend. Is there a day that works best for you?"
+
+    level_4:
+      - "Hi [name]! How's everything going in your life?"
+      - "Hi, everything's good. I've been thinking about our recent conversations. How are your projects going?"
+      - "They're going quite well. In fact, I'm working on a project that I'm very excited about. How about you?"
+      - "I also have an exciting project. Would you like to hear about it?"
+      - "Of course! Tell me all about your project. I'm interested."
+      - "Sure, I'll explain the details. How about we meet next Tuesday to talk?"
+
+    level_5:
+      - "Hi [name]! It's great to see you. How has your week been?"
+      - "Hi, it's been quite good. I've been reflecting on some things we discussed before. And you?"
+      - "I've had a busy week, but in a good way. I'd love to hear more about what you've been thinking."
+      - "Yes, of course. I was thinking about how we can collaborate on a project together. What do you think?"
+      - "That sounds great! I think we could do something really interesting. How would you like to start?"
+      - "We could brainstorm to define what we want to achieve. Does it sound okay if we meet this weekend?"
+
+  relationship:
+    level_1:
+      - "Hi [name], can I talk to you about something important?"
+      - "Sure [name], you know you can tell me anything. What's up?"
+      - "Well, I've been thinking a lot lately... about us."
+      - "About us? What do you mean exactly?"
+      - "I think my feelings for you have changed. I think... I like you. More than just a friend."
+      - "Wow, [name]... I don't know what to say. I've been feeling something similar."
+      - "Really? I didn't expect you to feel the same. What should we do?"
+      - "Maybe... could we try a date? You know, as something more than friends."
+      - "I'd love that. How about this Saturday?"
+      - "Perfect. I'm excited to see where this leads."
+
+    level_2:
+      - "Hi [name], how's my favorite person today?"
+      - "Better now that I see you. How has your day been?"
+      - "Pretty good. I was thinking about our last date. I had a great time with you."
+      - "I enjoyed it a lot too. You know, I love how our friendship has evolved."
+      - "Yes, it's incredible. I feel like I know you so well, but now it's... different. In a good way."
+      - "I understand perfectly. Would you like to plan another date for this weekend?"
+
+    level_3:
+      - "Good morning, darling. Did you sleep well?"
+      - "Good morning, love. Yes, especially since I dreamed about you."
+      - "You're so sweet. You know, every day I feel happier to be with you."
+      - "Me too. It's amazing how our friendship has turned into something so special."
+      - "Definitely. Hey, what do you think about planning a little trip together?"
+      - "I love the idea. Any particular place you'd like to visit?"
+
+    level_4:
+      - "Hi love, how was your day at work?"
+      - "It was fine, but better now that I'm with you. And yours?"
+      - "Same. You know, I've been thinking a lot about our future."
+      - "Oh really? Tell me more."
+      - "Well, I was wondering if... have you thought about living together?"
+      - "Actually, yes. Do you think we're ready?"
+      - "I think so. After all, we've been friends for so long and now..."
+      - "You're right. Why don't we discuss it further over dinner?"
+
+    level_5:
+      - "Good morning, my love. I made your favorite breakfast."
+      - "You're the best thing that has happened to me, did you know that?"
+      - "And you are the best thing that has happened to me. I never thought my best friend would become the love of my life."
+      - "Life has given us a beautiful surprise, don't you think?"
+      - "Absolutely. Hey, I've been thinking... have you considered taking the next step?"
+      - "You mean...?"
+      - "Yes, getting married. I know it's a big step, but I can't imagine my life without you."
+      - "Oh, [name]... Yes, a thousand times yes. I can't think of anyone better to spend the rest of my life with."
+  married:
+    level_1:
+      - "Good morning, my spouse. How did you wake up?"
+      - "Good morning, love. I still can't believe we're married."
+      - "I know, it's incredible. How about we make breakfast together?"
+      - "I love the idea. Pancakes or scrambled eggs?"
+      - "Why not both? We have a lifetime to decide."
+      - "You're right. I'm still excited about our new life together."
+
+    level_2:
+      - "Hi honey, how was your day at work?"
+      - "It was good, but better now that I'm home with you. And yours?"
+      - "Same. Hey, I was thinking, how about we remodel the bedroom?"
+      - "Sounds fun. Do you have any ideas in mind?"
+      - "I was thinking of warmer colors. What do you think?"
+      - "I like it. We could go shopping this weekend and choose together."
+
+    level_3:
+      - "Love, do you remember that today is our wedding anniversary?"
+      - "Of course! Happy anniversary, darling. I have a surprise for you."
+      - "Really? I also have something for you. Who goes first?"
+      - "How about we reveal them at the same time?"
+      - "Perfect. On the count of three. One, two, three..."
+      - "Wow! I can't believe we thought of the same thing!"
+
+    level_4:
+      - "Honey, have you thought about what we talked about the other night?"
+      - "You mean the possibility of having children?"
+      - "Yes, that's right. Have you made any decisions?"
+      - "I've been thinking a lot about it. I think I'm ready if you are."
+      - "I also feel ready. How about we start planning?"
+      - "That sounds perfect. I can't wait to start a family with you."
+
+    level_5:
+      - "Good morning, my love. How are my two favorite people today?"
+      - "Good morning, darling. We're fine, although the baby kept me up most of the night."
+      - "Oh, you should have woken me up. You know I'm here to help."
+      - "I know, but you looked so peaceful sleeping. Plus, I love these moments with our child."
+      - "You're amazing, did you know that? How about I take care of the baby today and you rest a bit?"
+      - "That sounds wonderful. I love you so much. We make a great team, don't we?"
+      - "The best. I can't imagine a more perfect life than this, with you and our family."
+objects:
+  types:
+    - "Mejora permanente"
+    - "Consumible"
+  names:
+    - "Ojos de Shinigami"
+    - "Corazón Determinado"
+    - "LCL"
+    - "Pistola Portal"
+  descriptions:
+    - "Los ojos de shinigami permiten al usuario ver los días de vida restantes de un humano."
+    - "El Corazón Determinado permite a un humano persistir aún después de la muerte."
+    - "El LCL permite a un humano conectarse profundamente con otros, por lo que las relaciones aumentarán más facil"
+    - "La Pistola Portal permite al usuario teletransportar a los humanos a donde sea"
+days_remain: "Morirá en [days] días"
+human_tab_label: "Humans"
+world_tab_label: "Worl"

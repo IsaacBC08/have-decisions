@@ -1,0 +1,606 @@
+# Textos de la aplicación en el idioma español
+app_title: "Have Decisions"
+create_human_btn: "Crear Humano"
+delete_human_btn: "Eliminar Humano"
+delete_race_btn: "Eliminar Raza"
+advance_day_btn: "Avanzar Día"
+event_btn: "Ocasionar Evento"
+save_btn: "Guardar Humano"
+current_season_label: "Estación Actual:"
+current_weather_label: "Clima Actual:"
+alive_humans_label: "Humanos Vivos:"
+tutorial_btn: "Tutorial"
+config_btn: "Configuración"
+select_action_label: "Seleccione una acción."
+page_label: "Página"
+interact_actions_label: "Acciones disponibles para:"
+talk_action_btn: "Hablar con alguien"
+work_action_btn: "Trabajar"
+cure_action_btn: "Curar"
+arrest_action_btn: "Arrestar"
+kill_action_btn: "Matar"
+select_disease_label: "Elige una enfermedad"
+select_event_label: "Elige un evento"
+all_humans_label: "Lista de todos los humanos vivos:"
+kill_btn_label: "Matar"
+select_disease_to_cure_label: "Elige una enfermedad para curar a:"
+select_person_to_talk_label: "Elige a quién hablar"
+human_created_msg: "Humano creado:"
+human_info_label: ""
+human_saved_msg: "El humano ya ha sido guardado antes"
+human_removed_msg: "El humano ya fue removido"
+event_occurred_msg: "ocasionado."
+human_sick_msg: "Humano enfermado"
+human_cured_msg: "Humano Curado"
+color_config_dialog_title: "Configuración de colores"
+save_colors_btn: "Guardar"
+cancel_btn: "Cancelar"
+high_death_probability_msg: "Alta probabilidad de morir pronto"
+page: "Página"
+create_human: "Humano creado:"
+names:
+  - Abril
+  - Adela
+  - Adelina
+  - Adolfo
+  - Adriana
+  - Adrián
+  - Adán
+  - Agustín
+  - Aitana
+  - Alan
+  - Alba
+  - Alberto
+  - Alejandro
+  - Alejo
+  - Alexis
+  - Alfonso
+  - Alfredo
+  - Alicia
+  - Alma
+  - Alonso
+  - Amado
+  - Amelia
+  - Anastasia
+  - Andrés
+  - Angélica
+  - Anselmo
+  - Antonia
+  - Antonio
+  - Ariadna
+  - Arnaldo
+  - Artemio
+  - Arturo
+  - Asunción
+  - Augusto
+  - Aurora
+  - Aída
+  - Baltasar
+  - Bartolomé
+  - Basilio
+  - Beatriz
+  - Belén
+  - Benigno
+  - Benito
+  - Benjamín
+  - Berenice
+  - Bernarda
+  - Bernardo
+  - Berta
+  - Bianca
+  - Blanca
+  - Bob
+  - Bonifacio
+  - Borja
+  - Braulio
+  - Brenda
+  - Brigida
+  - Bruno
+  - Bryan
+  - Bárbara
+  - Camila
+  - Carina
+  - Carla
+  - Carlos
+  - Carmelo
+  - Carmen
+  - Carolina
+  - Catalina
+  - Cecilia
+  - Celia
+  - Celso
+  - Ciro
+  - Clara
+  - Claudia
+  - Claudio
+  - Clemente
+  - Concepción
+  - Consuelo
+  - Cornelio
+  - Cristina
+  - Cristóbal
+  - Cándido
+  - César
+  - Dagoberto
+  - Dalia
+  - Damián
+  - Dania
+  - Daniel
+  - Dante
+  - Darío
+  - David
+  - Delfina
+  - Demetrio
+  - Dereck
+  - Diana
+  - Diego
+  - Dionisio
+  - Dolores
+  - Domingo
+  - Dora
+  - Dámaso
+  - Edilberto
+  - Edmundo
+  - Eduardo
+  - Efraín
+  - Eladio
+  - Elena
+  - Elias
+  - Elisa
+  - Eliseo
+  - Elsa
+  - Elvira
+  - Elías
+  - Emiliano
+  - Emilio
+  - Enrique
+  - Enzo
+  - Erasmo
+  - Ernesto
+  - Esperanza
+  - Esteban
+  - Estefanía
+  - Estela
+  - Ester
+  - Eugenio
+  - Eulalia
+  - Eva
+  - Ezequiel
+last_names:
+  - Abarca
+  - Abreu
+  - Acevedo
+  - Acosta
+  - Adame
+  - Adams
+  - Aguado
+  - Aguayo
+  - Aguilar
+  - Aguilera
+  - Aguirre
+  - Agüero
+  - Alarcón
+  - Albornoz
+  - Alcalá
+  - Alcaraz
+  - Alcocer
+  - Alcántara
+  - Alcázar
+  - Alderete
+  - Alfaro
+  - Almagro
+  - Almaraz
+  - Almonte
+  - Alonso
+  - Altamirano
+  - Alvarado
+  - Amador
+  - Andrade
+  - Angulo
+  - Aparicio
+  - Aponte
+  - Aragón
+  - Aranda
+  - Araujo
+  - Araya
+  - Arce
+  - Archuleta
+  - Arellano
+  - Arenas
+  - Arguello
+  - Arias
+  - Arismendi
+  - Arjona
+  - Armendáriz
+  - Armenta
+  - Arnau
+  - Arredondo
+  - Arreola
+  - Arriaga
+  - Arriola
+  - Arroyo
+  - Arteaga
+  - Asensio
+  - Atencio
+  - Avilés
+  - Ayala
+  - Baena
+  - Balderas
+  - Ballesteros
+  - Barajas
+  - Barba
+  - Barbosa
+  - Barquero
+  - Barrera
+  - Barreto
+  - Barrientos
+  - Barrios
+  - Barros
+  - Batista
+  - Bautista
+  - Becerra
+  - Bello
+  - Beltrán
+  - Benavides
+  - Benítes
+  - Benítez
+  - Bermúdez
+  - Betancourt
+  - Blanco
+  - Bonilla
+  - Borrego
+  - Botello
+  - Bravo
+  - Briones
+  - Briseño
+  - Brito
+  - Bueno
+  - Burgos
+  - Bustamante
+  - Bustillo
+  - Báez
+  - Caballero
+  - Cabello
+  - Cabrera
+  - Cadena
+  - Calderón
+  - Calvo
+  - Camacho
+  - Campos
+  - Cano
+  - Canto
+  - Cardozo
+  - Carmona
+  - Caro
+  - Carranza
+  - Carrasco
+  - Carrera
+  - Carrero
+  - Carrillo
+  - Carvajal
+  - Casas
+  - Castañeda
+  - Castañón
+  - Castellanos
+  - Castillo
+  - Castro
+  - Ceballos
+  - Cedillo
+  - Cepeda
+  - Cerda
+  - Cervantes
+  - Chacón
+  - Chávez
+  - Cienfuegos
+  - Cisneros
+  - Collado
+  - Colón
+  - Contreras
+  - Cordero
+  - Corona
+  - Corral
+  - Corrales
+  - Correa
+  - Cortez
+  - Cortés
+  - Crespo
+  - Cruz
+  - Cuevas
+  - Cárdenas
+seasons:
+  - "Verano"
+  - "Primavera"
+  - "Otoño"
+  - "Invierno"
+seasons_content: "Estación actual:"
+alive_humans: "Humanos vivos:"
+delete_all_humans: "Toda la raza humana fue eliminada"
+options_interact: "Interactuar"
+options_see_tink: "Ver pensamiento"
+options_say: "Decir"
+options_sick: "Enfermar"
+options_cure: "curar"
+age: "Edad: "
+years: "Años"
+attributes: "Atributos:"
+feeling: "Sentimiento actual:"
+country: "Pais de nacimiento:"
+condition: "Condición del humano:"
+religion: "Religión:"
+diseases: "Enfermedades:"
+profession: "Profesión:"
+not_assigned: "No asignada"
+strengths:
+  - "generoso"
+  - "valiente"
+  - "honesto"
+  - "confiado"
+  - "optimista"
+  - "paciente"
+  - "amable"
+  - "inteligente"
+  - "tolerante"
+  - "organizado"
+  - "compasivo"
+  - "persistente"
+weaknesses:
+  - "egoísta"
+  - "cobarde"
+  - "deshonesto"
+  - "inseguro"
+  - "pesimista"
+  - "impaciente"
+  - "grosero"
+  - "tonto"
+  - "repugnancia"
+  - "desordenado"
+  - "insensible"
+  - "desistido"
+religions:
+  - "Cristianismo"
+  - "Islam"
+  - "Hinduismo"
+  - "Budismo"
+  - "Judaísmo"
+  - "Sijismo"
+  - "Jainismo"
+  - "Taoísmo"
+  - "Confucianismo"
+  - "Ateísmo"
+fine_human: "El humano no está enfermo"
+is_now: "Ahora es un:"
+healthy: "Sanó su padecimiento de:"
+sick: "Enfermó de:"
+feel: "siente"
+die: "ha muerto"
+working: "está trabajando como"
+saved: "Partida guardada"
+event_has_occurred: "⊛ Ha ocurrido un evento ⊛"
+event: "Evento:"
+description: "Descripción:"
+current_day: "Dia actual:"
+emotions:
+  - "Felicidad"
+  - "Tristeza"
+  - "Enojo"
+  - "Miedo"
+  - "Amor"
+  - "Aburrimiento"
+  - "Disgusto"
+states:
+  - "Enfermo"
+  - "Sano"
+  - "Muerto"
+countries:
+  - "Máxico"
+  - "Napamá"
+  - "Tangamandapio"
+  - "Aftagisnán"
+  - "Perá"
+  - "República Antimicana"
+  - "Cuesta Rica"
+  - "Riusa"
+  - "Estamos Unidos"
+  - "Rican Morty"
+  - "Nadacá"
+  - "El Salvadón"
+  - "Varrezuela"
+  - "Sincanagua"
+  - "Magamascar"
+  - "HerreLandie"
+diseases_list:
+  - "Gripe"
+  - "Resfriado"
+  - "Neumonía"
+  - "Tuberculosis"
+  - "Diabetes"
+  - "Hipertensión"
+  - "Cáncer"
+  - "Artritis"
+  - "Eczema"
+  - "Asma"
+  - "Esquizofrenia"
+  - "Depresión"
+  - "Trastorno Bipolar"
+  - "Ansiedad"
+  - "Trastorno Obsesivo-Compulsivo"
+  - "Autismo"
+  - "Trastorno de Estrés Postraumático"
+  - "Psicosis"
+  - "Demencia"
+  - "Alzheimer"
+  - "Parkinson"
+  - "Esclerosis Múltiple"
+  - "Migraña"
+  - "Cefalea Tensional"
+  - "Fibromialgia"
+
+choose_illness: "Elige una enfermedad"
+choose_cure_illness: "Elige una enfermedad para curar a:"
+talk_someone: "Hablar con alguien"
+choose_talk: "Elige alguien para hablar con:"
+choose_flirt: "Elige a alguien para coquetear"
+choose_hate: "Elige a alguien para insultar"
+up_relation: "Relación mejorada:"
+new_level: "Nuevo nivel:"
+relation_max_level: "Relación ya está en el nivel máximo (5)"
+flirt: "Ligar"
+hate: "Insultar"
+already_interacted: "El humano ya interactuó hoy"
+gender:
+  - "Hombre"
+  - "Mujer"
+gender_label: "Género:"
+has_event: "Hoy ya ocurrió un evento!"
+already_kill: "No hay humanos vivos"
+dialogues:
+  friendship:
+    level_1:
+      - "Hola, ¿cómo estás?"
+      - "Hola, estoy bien, gracias. ¿Y tú?"
+      - "También estoy bien, gracias. Me llamo [name]. ¿Cómo te llamas?"
+      - "Soy [name]. Es un gusto conocerte."
+      - "Igualmente. Espero lleguemos a conocernos más!"
+      - "¡Claro! Me encantaría."
+    level_2:
+      - "Hola, [name], ¿cómo has estado?"
+      - "Hola, he estado bien. Estaba pensando en ti. ¿Cómo te va?"
+      - "Todo bien, gracias. Últimamente he estado ocupada con el trabajo. ¿Y tú?"
+      - "Igual, he estado trabajando. Pero me alegra saber de ti. ¿Qué tal tu vida?"
+      - "Me va  muy bien. De hecho, he estado aprendiendo cosas nuevas"
+      - "¡Eso suena interesante! Me encantaría escuchar más sobre eso."
+      - "Claro, te puedo contar todo lo que he aprendido. ¿Tienes alguna pregunta?"
+      - "No por ahora, pero me encantaría seguir hablando sobre esto contigo."
+      - "Perfecto, podemos hablar más en detalle cuando tengas tiempo."
+      - "¡Genial! Me alegra poder compartir esto contigo."
+    level_3:
+      - "¡Hola, [name]! Me alegra verte. ¿Qué has estado haciendo últimamente?"
+      - "Hola, he estado bien. Últimamente he estado probando nuevas recetas. ¿Te gusta cocinar?"
+      - "Sí, me encanta. ¿Cuál es tu receta favorita que has probado recientemente?"
+      - "He hecho una tarta de manzana increíble. ¿Te gustaría venir a probarla?"
+      - "¡Claro! Eso suena delicioso. Me encantaría."
+      - "Perfecto, te la traeré el fin de semana. ¿Hay algún día que te venga mejor?"
+
+    level_4:
+      - "¡Hola, [name]! ¿Cómo va todo en tu vida?"
+      - "Hola, todo bien. He estado pensando en nuestras últimas charlas. ¿Cómo van tus proyectos?"
+      - "Van bastante bien. De hecho, estoy trabajando en un proyecto que me entusiasma mucho. ¿Y tú?"
+      - "Yo también tengo un proyecto emocionante. ¿Te gustaría escuchar sobre él?"
+      - "¡Por supuesto! Cuéntame todo sobre tu proyecto. Estoy interesado."
+      - "Claro, te explicaré los detalles. ¿Te parece si nos reunimos el próximo martes para conversar?"
+
+    level_5:
+      - "¡Hola, [name]! Me alegra mucho verte. ¿Cómo ha sido tu semana?"
+      - "Hola, ha sido bastante buena. He estado reflexionando sobre algunas cosas que discutimos anteriormente. ¿Y tú?"
+      - "He tenido una semana ocupada, pero en el buen sentido. Me encantaría saber más sobre lo que has estado pensando."
+      - "Sí, claro. Estaba pensando en cómo podemos colaborar en un proyecto juntos. ¿Qué opinas?"
+      - "¡Eso suena genial! Creo que podríamos hacer algo realmente interesante. ¿Cómo te gustaría empezar?"
+      - "Podríamos hacer una lluvia de ideas para definir lo que queremos lograr. ¿Te parece bien si nos reunimos este fin de semana?"
+  relationship:
+    level_1:
+      - "Hola [name], ¿puedo hablar contigo sobre algo importante?"
+      - "Claro [name], sabes que puedes contarme lo que sea. ¿Qué pasa?"
+      - "Bueno, he estado pensando mucho últimamente... sobre nosotros."
+      - "¿Sobre nosotros? ¿A qué te refieres exactamente?"
+      - "Creo que mis sentimientos por ti han cambiado. Creo que... me gustas. Como algo más que un amigo."
+      - "Vaya, [name]... No sé qué decir. Yo también he sentido algo similar."
+      - "¿En serio? No esperaba que sintieras lo mismo. ¿Qué deberíamos hacer?"
+      - "Tal vez... ¿podríamos intentar una cita? Ya sabes, como algo más que amigos."
+      - "Me encantaría. ¿Qué te parece este sábado?"
+      - "Perfecto. Estoy emocionado/a por ver a dónde nos lleva esto."
+
+    level_2:
+      - "Hola [name], ¿cómo está mi persona favorita hoy?"
+      - "Mejor ahora que te veo. ¿Cómo ha ido tu día?"
+      - "Bastante bien. Estaba pensando en nuestra última cita. La pasé genial contigo."
+      - "Yo también lo disfruté mucho. Sabes, me encanta cómo nuestra amistad ha evolucionado."
+      - "Sí, es increíble. Siento que te conozco tan bien, pero ahora es... diferente. En el buen sentido."
+      - "Entiendo perfectamente. ¿Te gustaría planear otra cita para este fin de semana?"
+
+    level_3:
+      - "Buenos días, cariño. ¿Dormiste bien?"
+      - "Buenos días, amor. Sí, especialmente porque soñé contigo."
+      - "Eres tan dulce. Sabes, cada día me siento más feliz de estar contigo."
+      - "Yo también. Es increíble cómo nuestra amistad se ha convertido en algo tan especial."
+      - "Definitivamente. Oye, ¿qué opinas de planear un pequeño viaje juntos?"
+      - "Me encanta la idea. ¿Algún lugar en particular que te gustaría visitar?"
+
+    level_4:
+      - "Hola amor, ¿cómo estuvo tu día en el trabajo?"
+      - "Estuvo bien, pero mejor ahora que estoy contigo. ¿Y el tuyo?"
+      - "Igual. Sabes, he estado pensando mucho en nuestro futuro."
+      - "¿Ah sí? Cuéntame más."
+      - "Bueno, me preguntaba si... ¿has pensado en vivir juntos?"
+      - "La verdad es que sí lo he pensado. ¿Tú crees que estamos listos?"
+      - "Creo que sí. Después de todo, hemos sido amigos por tanto tiempo y ahora..."
+      - "Tienes razón. ¿Por qué no lo discutimos más a fondo durante la cena?"
+
+    level_5:
+      - "Buenos días, mi amor. Te preparé tu desayuno favorito."
+      - "Eres lo mejor que me ha pasado, ¿lo sabías?"
+      - "Y tú eres lo mejor que me ha pasado a mí. Nunca pensé que mi mejor amigo se convertiría en el amor de mi vida."
+      - "La vida nos ha dado una hermosa sorpresa, ¿no crees?"
+      - "Totalmente. Oye, he estado pensando... ¿has considerado dar el siguiente paso?"
+      - "¿Te refieres a...?"
+      - "Sí, a casarnos. Sé que es un gran paso, pero no puedo imaginar mi vida sin ti."
+      - "Oh, [name]... Sí, mil veces sí. No puedo pensar en nadie mejor para pasar el resto de mi vida."
+  married:
+    level_1:
+      - "Buenos días, esposo/a mío/a. ¿Cómo amaneciste?"
+      - "Buenos días, amor. Aún no me creo que estemos casados."
+      - "Lo sé, es increíble. ¿Qué te parece si preparamos el desayuno juntos?"
+      - "Me encanta la idea. ¿Panqueques o huevos revueltos?"
+      - "¿Por qué no ambos? Tenemos toda una vida para decidir."
+      - "Tienes razón. Aún estoy emocionado/a por nuestra nueva vida juntos."
+
+    level_2:
+      - "Hola cariño, ¿qué tal tu día en el trabajo?"
+      - "Estuvo bien, pero mejor ahora que estoy en casa contigo. ¿Y el tuyo?"
+      - "Igual. Oye, estaba pensando, ¿qué te parece si remodelamos el dormitorio?"
+      - "Suena divertido. ¿Tienes alguna idea en mente?"
+      - "Pensaba en colores más cálidos. ¿Qué opinas?"
+      - "Me gusta. Podríamos ir de compras este fin de semana y elegir juntos."
+
+    level_3:
+      - "Amor, ¿recuerdas que hoy es nuestro aniversario de bodas?"
+      - "¡Claro que sí! Feliz aniversario, cariño. Tengo una sorpresa para ti."
+      - "¿En serio? Yo también tengo algo para ti. ¿Quién va primero?"
+      - "¿Qué te parece si las revelamos al mismo tiempo?"
+      - "Perfecto. A la cuenta de tres. Uno, dos, tres..."
+      - "¡Wow! ¡No puedo creer que hayamos pensado en lo mismo!"
+
+    level_4:
+      - "Cariño, ¿has pensado en lo que hablamos la otra noche?"
+      - "¿Te refieres a la posibilidad de tener hijos?"
+      - "Sí, eso mismo. ¿Has tomado alguna decisión?"
+      - "He estado pensando mucho en ello. Creo que estoy listo/a si tú lo estás."
+      - "Yo también me siento preparado/a. ¿Qué te parece si empezamos a planificar?"
+      - "Me parece perfecto. No puedo esperar para formar una familia contigo."
+
+    level_5:
+      - "Buenos días, mi amor. ¿Cómo están mis dos personas favoritas hoy?"
+      - "Buenos días, cariño. Estamos bien, aunque el bebé me ha tenido despierto/a gran parte de la noche."
+      - "Oh, debiste haberme despertado. Sabes que estoy aquí para ayudarte."
+      - "Lo sé, pero te veías tan pacífico/a durmiendo. Además, amo estos momentos con nuestro hijo/a."
+      - "Eres increíble, ¿lo sabías? ¿Qué te parece si hoy me encargo yo del bebé y tú descansas un poco?"
+      - "Eso suena maravilloso. Te amo tanto. Formamos un gran equipo, ¿no crees?"
+      - "El mejor. No puedo imaginar una vida más perfecta que esta, contigo y con nuestra familia."
+      - "Quiero sex*"
+types_object_label: "Tipo de efecto:"
+objects:
+  types:
+    - "Mejora permanente"
+    - "Consumible"
+  names:
+    - "Ojos de Shinigami"
+    - "Corazón Determinado"
+    - "LCL"
+    - "Pistola Portal"
+  descriptions:
+    - "Los ojos de shinigami permiten al usuario ver los días de vida restantes de un humano."
+    - "El Corazón Determinado permite a un humano persistir aún después de la muerte."
+    - "El LCL permite a un humano conectarse profundamente con otros, por lo que las relaciones aumentarán más facil"
+    - "La Pistola Portal permite al usuario teletransportar a los humanos a donde sea"
+days_remain: "Morirá en [days] días"
+human_tab_label: "Humanos"
+world_tab_label: "Mundo"
